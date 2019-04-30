@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617272652946",
+    "firebase_url": "https://cabhiring-44149.firebaseio.com",
+    "project_id": "cabhiring-44149",
+    "storage_bucket": "cabhiring-44149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617272652946:android:63d2130ee89a293e",
+        "android_client_info": {
+          "package_name": "com.hfad.cabhiring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617272652946-duuqk8j6veki5aivss79cgvgpse4spfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.cabhiring",
+            "certificate_hash": "d37a6b529d6e9b502a0ef2e817373cadf4c72e8d"
+          }
+        },
+        {
+          "client_id": "617272652946-2dvuvb3jmjsir3puk3p7ffkao56ic5nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI_2LzYLkQxV6oK_SP1VOJCGl2JivUegI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617272652946-2dvuvb3jmjsir3puk3p7ffkao56ic5nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
